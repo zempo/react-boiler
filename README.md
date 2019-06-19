@@ -1,3 +1,16 @@
+# Personal React Boilerplate
+
+## Set-Up
+
+1. Clone this repository to your local machine `git clone https://github.com/zempo/react-boilerplate.git YOUR-PROJECT-FOLDER`
+2. `cd` into cloned repository
+3. Make a fresh start of your project's history with `rm -rf .git`
+4. `mv example.env .env` to hide env variables.
+5. Double-check your .gitignore
+6. `git init` followed by `npm i`.
+7. Update project name in `./public/index.html` and `./package.json`.
+8. Update `./public/favicon.ico`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
